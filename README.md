@@ -14,7 +14,7 @@ Demonstrates fundamental Python concepts — including loops, sets, dictionaries
 ---
 
 ### [Global Remittance Analysis (1970–2017)](https://github.com/lovelyigho/Python-Portfolio/blob/main/Global_Remittance_Analysis/Global_Remittance_Analysis_(1970_2017).ipynb)
-Analyzes global remittance inflows across countries using **Python (Pandas, Matplotlib, Seaborn)** on **Google Colab** — includes data cleaning, visualization, and insights.
+Analyzes global remittance inflows across countries using **Python (Pandas, Matplotlib)** on **Google Colab** — includes data cleaning, visualization, and insights.
 
 ---
 
