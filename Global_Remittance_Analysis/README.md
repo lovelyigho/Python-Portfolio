@@ -9,18 +9,6 @@
  The analysis focuses on data cleaning, transformation, visualization, 
  and interpretation to better understand global money-flow dynamics.
 
--- PROJECT STRUCTURE
-
-Global_Remittance_Analysis/
-│
-├── Global_Remittance_Analysis_(1970_2017).ipynb   # Main analysis notebook
-├── remittance-inflow.csv                           # Dataset used for analysis
-├── README.md                                       # Documentation file
-└── Plots/                                          # Generated charts
-    ├── nigeria_trend.png
-    ├── top10_countries.png
-    └── remittance_inflows_comparison.png
-
 
 --  TOOLS & LIBRARIES USED
 
@@ -49,7 +37,7 @@ Preprocessing steps:
 - Global Peak: Remittance inflows reached their highest point in 2014 ($597.7B USD).
 - Insight: Remittances play a key role in financial inclusion & diaspora-driven development.
 
--- 📊 VISUALIZATIONS
+-- VISUALIZATIONS
 
 - Nigeria – Remittance Inflow Trend (2000 – 2017)
    → Plots/nigeria_trend.png
@@ -60,7 +48,7 @@ Preprocessing steps:
 - Remittance Inflows Comparison (Selected Countries)
    → Plots/remittance_inflows_comparison.png
 
--- 🧭 OBJECTIVE & APPROACH
+-- OBJECTIVE & APPROACH
 
 Objective:
 To explore remittance trends and their macroeconomic impact across countries over time.
@@ -72,13 +60,13 @@ Approach:
   - Visualize country and regional comparisons
   - Summarize insights and interpret findings
 
--- 📘 KEY LEARNINGS
+-- KEY LEARNINGS
 
 - Learned to perform time-series trend analysis in Pandas.
 - Improved data visualization using Matplotlib.
 - Understood remittance flows’ power in emerging economies.
 - Gained experience in structuring and documenting data projects.
 
--- 📝 LICENSE
+-- LICENSE
 
 This project is licensed under the MIT License – see LICENSE file for details.
