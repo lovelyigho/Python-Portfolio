@@ -14,7 +14,7 @@ You can view the full notebook here:
 - Functions and Control Flow  
 
 ## Tools & Environment
-- **Language:** Python 3  
+- **Language:** Python 
 - **Environment:** Google Colab  
 
 ## About
