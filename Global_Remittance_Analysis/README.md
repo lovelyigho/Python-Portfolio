@@ -46,7 +46,7 @@ Preprocessing steps:
 
 3️⃣ [Remittance Inflows Comparison (Selected Countries)](https://github.com/lovelyigho/Python-Portfolio/blob/main/Global_Remittance_Analysis/Plots/remittance_inflows_comparison.png)
 
-https://github.com/lovelyigho/Python-Portfolio/blob/8d5341ac26f1104c99ed37c54f0b32189aec4f00/Global_Remittance_Analysis/Global_Remittance_Analysis_(1970_2017).ipynb
+4️⃣ **[View Full Notebook on GitHub](https://github.com/lovelyigho/Python-Portfolio/blob/main/Global_Remittance_Analysis/Global_Remittance_Analysis_(1970_2017).ipynb)**
 
 -- OBJECTIVE & APPROACH
 
