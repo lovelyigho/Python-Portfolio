@@ -22,6 +22,7 @@
 -- DATASET INFORMATION
 
 Source: World Bank – Remittance Inflows (1970 – 2017)
+
 Variables: Country Name | Year | Remittance Inflows (USD Million)
 
 Preprocessing steps:
