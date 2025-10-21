@@ -14,7 +14,7 @@ File: 2025_First_Semester_Project_Exam_Gold_Oviroro.ipynb
 
 This notebook demonstrates my understanding of Python fundamentals — including loops, sets, dictionaries, functions, and control flow.
 
-# Upcoming Projects
+## Upcoming Projects
 
 - Data Cleaning & Transformation Scripts
 - CSV Data Insights Automation
