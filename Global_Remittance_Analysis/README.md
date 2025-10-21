@@ -14,10 +14,10 @@
 
 | Category     | Libraries / Tools         |
 |---------------|--------------------------|
-| Programming   | Python 3                 |
-| Data Analysis | Pandas, NumPy            |
-| Visualization | Matplotlib      |
-| Environment   | Jupyter Notebook         |
+| Programming   | Python                   |
+| Data Analysis | Pandas                   |
+| Visualization | Matplotlib               |
+| Environment   | Google Colaboratory      |
 
 -- DATASET INFORMATION
 
