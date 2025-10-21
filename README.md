@@ -6,8 +6,18 @@ This space showcases my Python work from AltSchool Africa's Data Analytics progr
 
 ## Featured Projects
 
-- AltSchool Africa – Python Exam (2025)
-File: 2025_First_Semester_Project_Exam_Gold_Oviroro.ipynb
+## Featured Projects
+
+### [AltSchool Africa – Python Exam (2025)](https://github.com/lovelyigho/Python-Portfolio/blob/main/AltSchool_Python_Exam/2025_First_Semester_Project_Exam%20Gold%20Oviroro.ipynb)
+Demonstrates fundamental Python concepts — including loops, sets, dictionaries, and functions.
+
+---
+
+### [Global Remittance Analysis (1970–2017)](https://github.com/lovelyigho/Python-Portfolio/blob/main/Global_Remittance_Analysis/Global_Remittance_Analysis_(1970_2017).ipynb)
+Analyzes global remittance inflows across countries using **Python (Pandas, Matplotlib, Seaborn)** on **Google Colab** — includes data cleaning, visualization, and insights.
+
+---
+
 
 - Global Remittance Analysis (2025)
 
