@@ -40,17 +40,11 @@ Preprocessing steps:
 
 -- VISUALIZATIONS
 
-- Nigeria – Remittance Inflow Trend (2000 – 2017)
-  
-   Plots/nigeria_trend.png
+1️⃣ [Nigeria – Remittance Inflow Trend (2000–2017)](https://github.com/lovelyigho/Python-Portfolio/blob/main/Global_Remittance_Analysis/Plots/nigeria_trend.png)
 
-- Top 10 Remittance Receiving Countries
+2️⃣ [Top 10 Remittance Receiving Countries](https://github.com/lovelyigho/Python-Portfolio/blob/main/Global_Remittance_Analysis/Plots/top10_countries.png)
 
-  Plots/top10_countries.png
-
-- Remittance Inflows Comparison (Selected Countries)
-
-  Plots/remittance_inflows_comparison.png
+3️⃣ [Remittance Inflows Comparison (Selected Countries)](https://github.com/lovelyigho/Python-Portfolio/blob/main/Global_Remittance_Analysis/Plots/remittance_inflows_comparison.png)
 
 -- OBJECTIVE & APPROACH
 
