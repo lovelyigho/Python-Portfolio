@@ -4,12 +4,12 @@ Welcome to my Python Projects Repository!
 
 This space showcases my Python work from AltSchool Africa's Data Analytics program as well as independent projects exploring data analysis, automation, and product insights.
 
-Featured Projects
+## Featured Projects
 
-AltSchool Africa – Python Exam (2025)
+- AltSchool Africa – Python Exam (2025)
 File: 2025_First_Semester_Project_Exam_Gold_Oviroro.ipynb
 
-Global Remittance Analysis (2025)
+- Global Remittance Analysis (2025)
 
 
 This notebook demonstrates my understanding of Python fundamentals — including loops, sets, dictionaries, functions, and control flow.
