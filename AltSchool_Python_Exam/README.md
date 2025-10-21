@@ -8,6 +8,10 @@ View the notebook on GitHub
 
 https://github.com/lovelyigho/Python-Portfolio/blob/d3d648d9638f3907efcabba8fdf532a152d81d5f/AltSchool_Python_Exam/2025_First_Semester_Project_Exam%20Gold%20Oviroro.ipynb
 
+
+🔗 [Open Notebook](https://github.com/lovelyigho/Python-Portfolio/blob/main/AltSchool_Python_Exam/2025_First_Semester_Project_Exam%20Gold%20Oviroro.ipynb)
+
+
 ## Topics Covered
 - Variables and Data Types  
 - Conditional Statements  
