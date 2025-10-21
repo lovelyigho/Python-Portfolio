@@ -41,13 +41,13 @@ Preprocessing steps:
 -- VISUALIZATIONS
 
 - Nigeria – Remittance Inflow Trend (2000 – 2017)
-   → Plots/nigeria_trend.png
+   Plots/nigeria_trend.png
 
 - Top 10 Remittance Receiving Countries
-   → Plots/top10_countries.png
+   Plots/top10_countries.png
 
 - Remittance Inflows Comparison (Selected Countries)
-   → Plots/remittance_inflows_comparison.png
+  Plots/remittance_inflows_comparison.png
 
 -- OBJECTIVE & APPROACH
 
