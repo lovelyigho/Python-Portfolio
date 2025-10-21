@@ -4,7 +4,7 @@ This project demonstrates fundamental Python concepts including loops, sets, dic
 
 ## Project File
 You can view the full notebook here:  
-[View the notebook on GitHub](https://github.com/lovelyigho/Python-Portfolio/blob/main/AltSchool_Python_Exam/2025_First_Semester_Project_Exam_Gold%20Oviororo.ipynb)
+[View the notebook on GitHub]AltSchool_Python_Exam/2025_First_Semester_Project_Exam Gold Oviroro.ipynb
 
 
 
